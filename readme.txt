@@ -4,7 +4,7 @@ This code was firstly presented in
 Menzel, Teichmann and v. d. Boogaart: "A pure Java implementation of Generalized Maps".
 It is written in pure Java 8, the presented version was complied and excecuted with JDK 1.8.0_131 (64-bit).
 The core functionalities for GMaps are based on
-Lèvy and Mallet (1999): "Cellular Modeling in Arbitrary Dimension using Generalized Maps"
+LÃ¨vy and Mallet (1999): "Cellular Modeling in Arbitrary Dimension using Generalized Maps"
 and
 Mallet (2002): "Geomodelling".
 
@@ -23,5 +23,3 @@ compiling:
 location\GMap_0.0beta>javac -classpath "location\GMap_0.0beta\src"  -d "location\GMap_0.0beta\bin" src\de\hzdr\jgm\cgeo\gmap\demo\GMapDemo.java
 running:
 location\GMap_0.0beta\bin>java -cp . de/hzdr/jgm/cgeo/gmap/demo/GMapDemo
-
-Linux:
