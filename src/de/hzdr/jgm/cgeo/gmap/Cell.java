@@ -49,6 +49,10 @@ public class Cell implements CellObject
       cellDart = dart;
    }
 
+   /**
+    * returns the reference to the underlying double array
+    * @return reference to coordinate array
+    */
    public double[] getVertex()
    {
       return this.vertex;
